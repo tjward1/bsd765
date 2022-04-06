@@ -1,0 +1,107 @@
+osboxes@osboxes:~/TestGit$ history
+    1  cd ..
+    2  ls
+    3  dpkg --list
+    4  dpkg --list | grep python
+    5  cd/
+    6  cd 
+    7  cd /
+    8  ls
+    9  ls bin
+   10  ls bin | grep mkdir
+   11  ls bin | grep dir
+   12  ls bin | grep mount
+   13  ls bin | grep passwd
+   14  ll
+   15  ll bin
+   16  ll -h
+   17  ls dev
+   18  ls dev | std
+   19  ls dev | grep std
+   20  echo 1 > /dev/stdout
+   21  ll dev | grep std
+   22  echo hello
+   23  echo hello | cat
+   24  ls home
+   25  ls home/osboxes
+   26  ls etc
+   27  ls etc  | grep host
+   28  cd etc
+   29  ls | grep hostname
+   30  cd..
+   31  cd ..
+   32  ls | grep hostname
+   33  ls proc
+   34  cat /proc/cgroups
+   35  ls -l
+   36  cd ~
+   37  pwd
+   38  cd -
+   39  cd /
+   40  cd ~
+   41  cd -
+   42  ls /proc | grep py
+   43  ls bin | grep py
+   44  ls bin | grep python
+   45  ls bin | grep \\.py
+   46  ls bin\*.py
+   47  ls bin/*.py
+   48  cd bin
+   49  ls *.py
+   50  cd ~
+   51  mkdir Mycode/Python
+   52  mkdir ~/Mycode/Python
+   53  mkdir -p ~/Mycode/Python
+   54  ls
+   55  cd Mycode/Python/
+   56  pwd
+   57  ls
+   58  cd ..
+   59  rmdir Python/
+   60  vim
+   61  sudo apt-get install vim -y
+   62  sudo apt-get install git -y
+   63  git --version
+   64  vim --version
+   65  git --version
+   66  git clone https://github.com/hrmoradi/ClassTestGit
+   67  ls
+   68  ls ClassTestGit/
+   69  ClassTestGit/
+   70  cd ClassTestGit/
+   71  vim test.py
+   72  vi test.py
+   73  python3 test.py
+   74  python3 test.py first second third
+   75  vim testFile.py
+   76  python3 test.py ./testfile.py
+   77  python3 test.py ./testFile.py
+   78  python3 test.py ./testFile.py > out.txt
+   79  cat out.txt
+   80  python3 test.py
+   81  python3 test.py > out.txt
+   82  cat out.txt
+   83  python3 test.py 2> out.txt
+   84  python3 test.py 2> out.txt 2>err.txt
+   85  cat out.txt
+   86  cat err.txt
+   87  python3 test.py &> all.txt
+   88  cat all.txt
+   89  python3 test.py > out.txt 2>err.txt
+   90  cat out.txt
+   91  python3 test.py >> out.txt 2>>err.txt
+   92  cat out.txt
+   93  cd ~
+   94  mkdir TestGit
+   95  cd TestGit/
+   96  git init
+   97  git remote add origin https://github.com/tjward1/bsd765
+   98  git pull origin main 
+   99  ls
+  100  git checkout main
+  101  ls
+  102  git status
+  103  history
+osboxes@osboxes:~/TestGit$ 
+
+
